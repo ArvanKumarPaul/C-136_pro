@@ -46,3 +46,27 @@ canvas {
   font-weight: bold;
 
 }
+
+input {
+
+  background-color: rgb(99, 240, 99);
+  width: 66%;
+  border-radius: 15px;
+  border: none;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+input:hover {
+
+  background-color: rgb(99, 240, 99);
+  width: 66%;
+  box-shadow: 5px 5px 5px white;
+  transition: 0.7s;
+  border: none;
+  border-radius: 15px;
+  text-align: center;
+  font-weight: bold;
+
+}
